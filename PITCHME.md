@@ -125,31 +125,44 @@ Note:
 @ul
 
 - Ide itu murah, yang mahal adalah **eksekusi**
-  - _Programmer_ memiliki kemampuan untuk **eksekusi**
 - Banyak tawaran kerja sama menjadi CTO
-  - Saya sendiri pernah mencobanya, walaupun pada akhirnya mundur
-  - Lebih lanjut tentang ini dapat dibaca di tulisan saya yang berjudul [Banyak Anak Banyak Rezeki, Benarkah?](https://medium.com/pejuang-kode/banyak-anak-banyak-rezeki-benarkah-4f772701dfa3)
+  - [Banyak Anak Banyak Rezeki, Benarkah?](https://medium.com/pejuang-kode/banyak-anak-banyak-rezeki-benarkah-4f772701dfa3)
 - Bisa menjadi [_Indie Hackers_](https://www.indiehackers.com/) seperti [Pieter Levels](https://levels.io/)
 
 @ulend
 
+Notes:
+
+- _Programmer_ memiliki kemampuan untuk **eksekusi**
+- Saya sendiri pernah mencobanya, walaupun pada akhirnya mundur
+  - Lebih lanjut tentang ini dapat dibaca di tulisan saya yang berjudul [Banyak Anak Banyak Rezeki, Benarkah?](https://medium.com/pejuang-kode/banyak-anak-banyak-rezeki-benarkah-4f772701dfa3)
+
 +++
 
-#### Kesempatan berkarya yang lebih luas
+#### Kesempatan berkarya yang sangat luas
 
 @ul
 
-- Karya kita dapat dirasakan manfaatnya bagi masyarakat luas
-- Kebutuhan tenaga kerja yang tinggi membuka kesempatan berkarya untuk mengisi kekosongan tenaga kerja tersebut
-  - Salah satunya adalah QODR ini
-  - Masih banyak talenta _programmer_ di Indonesia yang berpotensi untuk dikembangkan
-  - Kecerdasan anak bangsa Indonesia tidak kalah dengan anak bangsa lain, seperti India & Tiongkok
+- Indonesia negara berkembang → **ATM** dari negara lain
+  - Amati
+  - Tiru
+  - Modifikasi
+- Karya kita dapat dirasakan manfaatnya oleh masyarakat luas
+- Kesempatan berkarya untuk mengisi kekosongan tenaga kerja
 
 @ulend
 
 Note:
 
-- Yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
+- Contoh ATM:
+  - Traveloka → ATM Expedia
+  - Gojek → ATM Uber
+  - Bukalapak & Tokopedia → ATM Amazon
+- Contoh: yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
+- Kebutuhan tenaga kerja yang tinggi membuka kesempatan berkarya untuk mengisi kekosongan tenaga kerja tersebut
+  - Salah satunya adalah QODR ini
+  - Masih banyak talenta _programmer_ di Indonesia yang berpotensi untuk dikembangkan
+  - Kecerdasan anak bangsa Indonesia tidak kalah dengan anak bangsa lain, seperti India & Tiongkok
 
 ---
 
