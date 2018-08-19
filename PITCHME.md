@@ -88,23 +88,29 @@ Note:
 
 +++
 
-1. "Komoditas langka" yang sedang dicari
+#### 1. "Komoditas langka" yang sedang dicari
 
 @ul
 
 - Setiap pekan selalu ada yang menghubungi via LinkedIn
 - Padahal sudah menyatakan diri bahwa tidak sedang berminat untuk pindah
-- ![Career Interest](assets/image/career-interest.png)
+- ![Career Interest](https://raw.githubusercontent.com/zainfathoni/cekcok/master/assets/image/career-interest.png)
 
 @ulend
 
+Note:
+
+- Banyaknya tawaran seperti ini tidak saya alami ketika saya menjadi manajer
+- Kebanyakan tawaran dan kesempatan kerja yang saya temui adalah untuk posisi _engineer_, bukan _manajer_
+
 +++
 
-2. Kesempatan bekerja _remote_
+#### 2. Kesempatan bekerja _remote_
 
 @ul
 
 - Bekerja dari rumah
+  - Bisa bekerja sesuai dengan jam produktif kita sendiri
   - Waktu bersama keluarga lebih banyak
 - Biaya hidup lokal, gaji internasional
 
@@ -112,7 +118,7 @@ Note:
 
 +++
 
-3. Kesempatan membuat _startup_ sendiri
+#### 3. Kesempatan membuat _startup_ sendiri
 
 @ul
 
