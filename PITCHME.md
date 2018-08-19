@@ -27,35 +27,18 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 
 +++
 
-### Biodata
-
-Nama: Zain Fathoni
-
-Asal: Jember, Jawa Timur
-
-Sejak lahir s.d. SMA di Jember
-
-+++
-
 ### Pendidikan
 
+@ul
+
+- Nama: Zain Fathoni
+- Asal: Jember, Jawa Timur
+- SD s.d. SMA di Jember
 - Institut Teknologi Bandung
   - S1 Teknik Informatika
   - 2008 - 2014
 
-+++
-
-### Pengalaman Kerja
-
-@ol
-
-1. 2014, QUN, Programmer
-2. 2015, Xtremax, Software Developer
-3. 2015, Xtremax, Software Development Manager
-4. 2017, Bukalapak, Software Engineer
-5. 2018, Ninja Van, Senior Software Engineer
-
-@olend
+@ulend
 
 +++
 
@@ -81,6 +64,16 @@ Sejak lahir s.d. SMA di Jember
     <td>2015</td>
     <td>Xtremax</td>
     <td>Software Development Manager</td>
+  </tr>
+  <tr class="fragment">
+    <td>2017</td>
+    <td>Bukalapak</td>
+    <td>Software Engineer</td>
+  </tr>
+  <tr class="fragment">
+    <td>2018</td>
+    <td>Ninja Van</td>
+    <td>Senior Software Engineer</td>
   </tr>
 </table>
 
