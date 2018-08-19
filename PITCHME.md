@@ -94,9 +94,10 @@ Note:
 
 - Setiap pekan selalu ada yang menghubungi via LinkedIn
 - Padahal sudah menyatakan diri bahwa tidak sedang berminat untuk pindah
-- ![Career Interest](https://raw.githubusercontent.com/zainfathoni/cekcok/master/assets/image/career-interest.png)
 
 @ulend
+
+<img class="fragment" src="https://raw.githubusercontent.com/zainfathoni/cekcok/master/assets/image/career-interest.png" alt="Career Interest" />
 
 Note:
 
