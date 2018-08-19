@@ -131,7 +131,7 @@ Note:
 
 @ulend
 
-Notes:
+Note:
 
 - _Programmer_ memiliki kemampuan untuk **eksekusi**
 - Saya sendiri pernah mencobanya, walaupun pada akhirnya mundur
