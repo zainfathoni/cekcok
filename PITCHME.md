@@ -303,6 +303,18 @@ Note:
 
 +++
 
+### Jangan "Alergi" dengan Membaca
+
+@ul
+
+- Sebagian besar ilmu tersaji dalam bentuk tulisan
+- Memang ada yang tersaji dalam bentuk video tutorial, tapi tidak semua orang mau membuatkan video yang mudah untuk dipelajari
+- Ilmu dalam bentuk video sulit dilacak kembali apabila suatu saat nanti kita membutuhkannya lagi
+
+@ulend
+
++++
+
 ### Jangan Pernah Berhenti Belajar
 
 Saat kita berhenti belajar, bersiaplah untuk tergilas oleh kemajuan zaman
@@ -311,37 +323,76 @@ Saat kita berhenti belajar, bersiaplah untuk tergilas oleh kemajuan zaman
 
 ## Tips Meniti Karir
 
+Tips meniti karir sebagais seorang _programmer_
+
 +++
 
-### Investasi Karir _Programmer_
+### Investasi Karir Seorang _Programmer_
+
+@ul
+
+- Dunia IT berkembang sangat pesat
+  - Perusahaan sebesar Uber pun bisa tergilas dalam hitungan kurang dari 5 tahun
+- Jangan terlalu mengandalkan perusahaan tertentu
+- Teruslah belajar, tingkatkan terus keahlian dan pengalaman, _insya Allah_ kemajuan karir akan mengikuti
+
+@ulend
 
 +++
 
 ### Alternatif jalur karir
 
-1. Setia pada satu perusahaan
-2. Kutu loncat
-3. Tidak sering pindah, tidak pula terlalu setia
+@ol
+
+- Setia pada satu perusahaan
+- Kutu loncat
+- Tidak sering pindah, tidak pula terlalu setia
+
+@olend
 
 +++
 
 ### Tips Pindah Perusahaan
 
-- Mengapa pindah perusahaan?
-- Kapan saatnya pindah perusahaan?
-- Bagaimana caranya pindah perusahaan?
+@ul
+
+- **Mengapa** pindah perusahaan?
+- **Kapan** saatnya pindah perusahaan?
+- **Bagaimana** caranya pindah perusahaan?
+
+@ulend
 
 +++
 
 #### Mengapa pindah perusahaan?
 
+@ul
+
+- Sudah "mentok", tidak ada lagi ilmu dan pengalaman yang bisa diperoleh
+- Kompensasi/benefit yang dianggap kurang sesuai dengan "harga pasaran"
+
+@ulend
+
 +++
 
 #### Kapan saatnya pindah perusahaan?
 
+@ul
+
+- Karena
+
+@ulend
+
 +++
 
 #### Bagaimana caranya pindah perusahaan?
+
+@ul
+
+- Karena
+-
+
+@ulend
 
 ---
 
