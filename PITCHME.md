@@ -6,7 +6,7 @@ by **Zain Fathoni**
 
 Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 
----?image=https://images.unsplash.com/photo-1517547196086-e63b7ae6afb0&size=cover
+---
 
 ## Kerangka Pembahasan
 
