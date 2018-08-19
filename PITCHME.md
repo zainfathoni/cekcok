@@ -47,13 +47,15 @@ Sejak lahir s.d. SMA di Jember
 
 ### Pengalaman Kerja
 
-| Tahun | Perusahaan | Posisi                       |
-| ----- | ---------- | ---------------------------- |
-| 2014  | QUN        | Programmer                   |
-| 2015  | Xtremax    | Software Developer           |
-| 2015  | Xtremax    | Software Development Manager |
-| 2017  | Bukalapak  | Software Engineer            |
-| 2018  | Ninja Van  | Senior Software Engineer     |
+@ol
+
+1. 2014, QUN, Programmer
+2. 2015, Xtremax, Software Developer
+3. 2015, Xtremax, Software Development Manager
+4. 2017, Bukalapak, Software Engineer
+5. 2018, Ninja Van, Senior Software Engineer
+
+@ol
 
 ---
 
