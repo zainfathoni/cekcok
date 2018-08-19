@@ -10,15 +10,16 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 
 ## Kerangka Pembahasan
 
+@ul
+
 - Perkenalan
 - Kriteria _programmer_ idaman
 - Hak istimewa _programmer_
 - Investasi karir seorang _programmer_
 - Cara belajar _programmer_
-- Cara _programmer_ meniti karir
+- Tips meniti karir sebagai _programmer_
 
-  - Alternatif jalur karir
-  - Tips pindah perusahaan
+@ulend
 
 ---
 
@@ -64,7 +65,7 @@ Sejak lahir s.d. SMA di Jember
 
 ---
 
-## Investasi Karir Seorang _Programmer_
+## Investasi Karir _Programmer_
 
 ---
 
@@ -72,7 +73,7 @@ Sejak lahir s.d. SMA di Jember
 
 ---
 
-## Cara _Programmer_ Meniti Karir
+## Tips Meniti Karir
 
 ---
 
