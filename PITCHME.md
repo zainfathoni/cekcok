@@ -13,7 +13,7 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 @ul
 
 - Perkenalan
-- Hak istimewa _programmer_
+- Keunggulan _programmer_
 - Kriteria _programmer_ idaman
 - Investasi karir seorang _programmer_
 - Cara belajar _programmer_
@@ -80,20 +80,21 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 Note:
 
 - Lebih memilih jalur karir _technical_ daripada _managerial_
-- Karena _programmer_ memiliki beberapa _privilege_ (hak istimewa)
+- Karena _programmer_ memiliki beberapa _privilege_ (keunggulan)
 
 ---
 
-## Hak Istimewa _Programmer_
+## Keunggulan _Programmer_
 
 +++
 
-#### 1. "Komoditas langka" yang sedang dicari
+### "Komoditas langka" yang sedang dicari
 
 @ul
 
+- Barang langka harganya mahal (gaji tinggi)
 - Setiap pekan selalu ada yang menghubungi via LinkedIn
-- Padahal sudah menyatakan diri bahwa tidak sedang berminat untuk pindah
+  - Padahal sudah menyatakan diri bahwa tidak sedang berminat untuk pindah
 
 @ulend
 
@@ -106,7 +107,7 @@ Note:
 
 +++
 
-#### 2. Kesempatan bekerja _remote_
+### Kesempatan bekerja _remote_
 
 @ul
 
@@ -119,7 +120,7 @@ Note:
 
 +++
 
-#### 3. Kesempatan membuat _startup_ sendiri
+### Kesempatan membuat _startup_ sendiri
 
 @ul
 
@@ -129,6 +130,21 @@ Note:
   - Saya sendiri pernah mencobanya, walaupun pada akhirnya mundur
   - Lebih lanjut tentang ini dapat dibaca di tulisan saya yang berjudul [Banyak Anak Banyak Rezeki, Benarkah?](https://medium.com/pejuang-kode/banyak-anak-banyak-rezeki-benarkah-4f772701dfa3)
 - Bisa menjadi [_Indie Hackers_](https://www.indiehackers.com/) seperti [Pieter Levels](https://levels.io/)
+
+@ulend
+
++++
+
+### Kesempatan berkarya yang lebih luas
+
+@ul
+
+- Karya kita dapat dirasakan manfaatnya bagi masyarakat luas
+  - Yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
+- Kebutuhan tenaga kerja yang tinggi membuka kesempatan berkarya untuk mengisi kekosongan tenaga kerja tersebut
+  - Salah satunya adalah QODR ini
+  - Masih banyak talenta _programmer_ di Indonesia yang berpotensi untuk dikembangkan
+  - Kecerdasan anak bangsa Indonesia tidak kalah dengan anak bangsa lain, seperti India & Tiongkok
 
 @ulend
 
