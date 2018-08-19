@@ -1,5 +1,7 @@
 # Look-and-Feel
 theme: black
+background: https://raw.githubusercontent.com/zainfathoni/cekcok/master/assets/image/background.jpg
+background-size: cover
 
 # Meta
 footnote: "Cekcok - Menjadi Programmer Idaman"
