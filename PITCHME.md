@@ -158,7 +158,9 @@ Note:
   - Traveloka → ATM Expedia
   - Gojek → ATM Uber
   - Bukalapak & Tokopedia → ATM Amazon
-- Contoh: yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
+- Contoh karya:
+  - Blog & aplikasi yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
+  - _Open source_
 - Kebutuhan tenaga kerja yang tinggi membuka kesempatan berkarya untuk mengisi kekosongan tenaga kerja tersebut
   - Salah satunya adalah QODR ini
   - Masih banyak talenta _programmer_ di Indonesia yang berpotensi untuk dikembangkan
@@ -167,6 +169,62 @@ Note:
 ---
 
 ## Kriteria _Programmer_ Idaman
+
++++
+
+#### Cepat Belajar
+
+@ul
+
+- Teknologi berkembang pesat
+- Harus mampu memanfaatkan teknologi secara tepat
+
+@ulend
+
++++
+
+#### Mampu Bekerja Sama
+
+@ul
+
+- Karya besar pasti dibuat oleh tim yang besar
+
+@ulend
+
+Note:
+
+- Bukalapak → 500 _engineers_
+- Traveloka → 500 _engineers_
+
++++
+
+#### Memiliki Kemampuan Bahasa Inggris yang Mumpuni
+
+@ul
+
+- _Reading_ → Membaca dokumentasi
+- _Listening_ → Mengikuti _Tech Talks_ & tutorial dari luar
+- _Speaking_ → Wawancara kerja, koordinasi pekerjaan
+
+@ulend
+
++++
+
+#### Pengalaman Membuat Produk Jadi
+
+@ul
+
+- Portofolio _production level application_
+  - Selama bekerja di kantor
+  - Proyek pribadi/sampingan
+- Kontribusi di _open source_
+
+@ulend
+
+Note:
+
+- Contoh: [Ojek Belanja](https://ojekbelanja.id) sempat saya jadikan portofolio untuk masuk Bukalapak & Ninja Van, meskipun baru setengah jadi.
+- Latihan kontribusi _open source_ melalui [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ---
 
