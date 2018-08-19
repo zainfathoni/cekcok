@@ -55,7 +55,34 @@ Sejak lahir s.d. SMA di Jember
 4. 2017, Bukalapak, Software Engineer
 5. 2018, Ninja Van, Senior Software Engineer
 
-@ol
+@olend
+
++++
+
+### Pengalaman Kerja
+
+<table>
+  <tr>
+    <th>Tahun</th>
+    <th>Perusahaan</th>
+    <th>Posisi</th>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>QUN</td>
+    <td>Programmer</td>
+  </tr>
+  <tr class="fragment">
+    <td>2015</td>
+    <td>Xtremax</td>
+    <td>Software Developer</td>
+  </tr>
+  <tr class="fragment">
+    <td>2015</td>
+    <td>Xtremax</td>
+    <td>Software Development Manager</td>
+  </tr>
+</table>
 
 ---
 
