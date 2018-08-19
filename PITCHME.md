@@ -88,7 +88,7 @@ Note:
 
 +++
 
-### "Komoditas langka" yang sedang dicari
+#### "Komoditas langka" yang sedang dicari
 
 @ul
 
@@ -107,7 +107,7 @@ Note:
 
 +++
 
-### Kesempatan bekerja _remote_
+#### Kesempatan bekerja _remote_
 
 @ul
 
@@ -120,7 +120,7 @@ Note:
 
 +++
 
-### Kesempatan membuat _startup_ sendiri
+#### Kesempatan membuat _startup_ sendiri
 
 @ul
 
@@ -135,18 +135,21 @@ Note:
 
 +++
 
-### Kesempatan berkarya yang lebih luas
+#### Kesempatan berkarya yang lebih luas
 
 @ul
 
 - Karya kita dapat dirasakan manfaatnya bagi masyarakat luas
-  - Yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
 - Kebutuhan tenaga kerja yang tinggi membuka kesempatan berkarya untuk mengisi kekosongan tenaga kerja tersebut
   - Salah satunya adalah QODR ini
   - Masih banyak talenta _programmer_ di Indonesia yang berpotensi untuk dikembangkan
   - Kecerdasan anak bangsa Indonesia tidak kalah dengan anak bangsa lain, seperti India & Tiongkok
 
 @ulend
+
+Note:
+
+- Yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
 
 ---
 
