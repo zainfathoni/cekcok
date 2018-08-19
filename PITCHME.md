@@ -15,7 +15,6 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 - Perkenalan
 - Keunggulan _programmer_
 - Kriteria _programmer_ idaman
-- Investasi karir seorang _programmer_
 - Cara belajar _programmer_
 - Tips meniti karir sebagai _programmer_
 
@@ -25,14 +24,19 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 
 ## Perkenalan
 
+@ul
+
+- Nama: Zain Fathoni
+- Asal: Jember, Jawa Timur
+
+@ulend
+
 +++
 
 ### Pendidikan
 
 @ul
 
-- Nama: Zain Fathoni
-- Asal: Jember, Jawa Timur
 - SD s.d. SMA di Jember
 - Institut Teknologi Bandung
   - S1 Teknik Informatika
@@ -85,6 +89,8 @@ Note:
 ---
 
 ## Keunggulan _Programmer_
+
+Berbagai keunggulan profesi _programmer_ dibandingkan profesi lain pada umumnya
 
 +++
 
@@ -158,6 +164,7 @@ Note:
   - Traveloka → ATM Expedia
   - Gojek → ATM Uber
   - Bukalapak & Tokopedia → ATM Amazon
+  - Ninja Van → ATM Fedex
 - Contoh karya:
   - Blog & aplikasi yang saya kerjakan dari Singapura bisa dirasakan oleh orang-orang di Indonesia
   - _Open source_
@@ -169,6 +176,8 @@ Note:
 ---
 
 ## Kriteria _Programmer_ Idaman
+
+Kriteria _programmer_ yang biasa dicari oleh perusahaan-perusahaan IT yang bonafide.
 
 +++
 
@@ -228,17 +237,85 @@ Note:
 
 ---
 
-## Investasi Karir _Programmer_
-
----
-
 ## Cara Belajar _Programmer_
+
+Cara belajar yang perlu diterapkan oleh _programmer_ supaya dapat mengikuti perkembangan teknologi dan memenuhi standard perusahaan-perusahaan IT
+
++++
+
+### 2 Jenis Cara Belajar
+
+[Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360)
+
++++
+
+#### _Just-In-Case Learning_
+
+@ul
+
+- Pelajari semuanya dulu, "siapa tahu" (_just in case_) suatu saat nanti diperlukan
+- Menumpuk banyak materi pelajaran di awal, menumpuk banyak praktikum di akhir
+- Mirip dengan sistem sekolah di Indonesia pada umumnya
+  - Belajar 12 tahun (atau lebih) untuk menghadapi dunia kerja
+
+@ulend
+
+Note:
+
+- Saya pernah melakukannya, akibatnya jadi:
+  - Capek sendiri
+  - Gampang lupa
+  - Ilmunya kurang bermanfaat
+- Baca juga bagian **Cara belajar yang baik** di [tulisan saya ini](https://medium.com/pejuang-kode/menyikapi-sistem-zonasi-sekolah-negeri-dengan-bijak-306ae02f05a4)
+
++++
+
+#### _Just-In-Time Learning_
+
+@ul
+
+- Pelajari hanya yang sedang/akan dibutuhkan dalam waktu dekat
+- Belajar dan praktikum berjalan beriringan
+- _Fun Fact_: 80% ilmu yang saya gunakan di dunia kerja saat ini saya peroleh dari proses _Just-In-Time Learning_ selama 4 tahun terakhir di dunia kerja
+
+@ulend
+
+Note:
+
+- Semenjak beralih menerapkan pola belajar ini, jadinya:
+  - Stres saya berkurang
+  - Yang dipelajari sangat tertanam, sehingga memperkuat ingatan jangka panjangnya
+  - Ilmunya jelas bermanfaat, karena langsung diterapkan saat itu juga
+
++++
+
+### Kupas Tuntas Sampai Akarnya
+
+@ul
+
+- Inilah cara belajar **Elon Musk**, baca artikel [The Cook and The Chef](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+- Apabila tidak mengerti cara kerja suatu teknologi, terus gali lebih dalam hingga konsep yang paling dasar
+- Contoh:
+  - React Native → React → ES6 → JavaScript
+  - Web → HTTP → Jaringan Komputer → OS → Biner → Sistem Digital
+
+@ulend
+
++++
+
+### Jangan Pernah Berhenti Belajar
+
+Saat kita berhenti belajar, bersiaplah untuk tergilas oleh kemajuan zaman
 
 ---
 
 ## Tips Meniti Karir
 
----
++++
+
+### Investasi Karir _Programmer_
+
++++
 
 ### Alternatif jalur karir
 
@@ -246,7 +323,7 @@ Note:
 2. Kutu loncat
 3. Tidak sering pindah, tidak pula terlalu setia
 
----
++++
 
 ### Tips Pindah Perusahaan
 
@@ -260,11 +337,11 @@ Note:
 
 +++
 
-### Kapan saatnya pindah perusahaan?
+#### Kapan saatnya pindah perusahaan?
 
 +++
 
-### Bagaimana caranya pindah perusahaan?
+#### Bagaimana caranya pindah perusahaan?
 
 ---
 
