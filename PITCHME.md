@@ -197,6 +197,11 @@ Kriteria _programmer_ yang biasa dicari oleh perusahaan-perusahaan IT yang bonaf
 @ul
 
 - Karya besar pasti dibuat oleh tim yang besar
+- _Programmer_ hanya satu dari sekian peran yang diperlukan untuk membuat _software_ yang bermanfaat, mis.:
+  - _Business Analyst_
+  - _Product Manager_
+  - _UX Designer_
+  - _UI Designer_
 
 @ulend
 
@@ -216,6 +221,10 @@ Note:
 - _Speaking_ → Wawancara kerja, koordinasi pekerjaan
 
 @ulend
+
+Note:
+
+- Saya sudah 2 kali gagal mencoba memasukkan teman-teman saya ke kantor Ninja Van Singapura, karena kemampuan bahasa Inggris mereka yang dianggap kurang memadai. Padahal kalau dilihat dari sisi kemampuan teknis, mereka sebenarnya jauh lebih jago daripada saya.
 
 +++
 
@@ -313,6 +322,11 @@ Note:
 
 @ulend
 
+Note:
+
+- Gunakan video tutorial hanya sebagai sarana pengantar untuk mengenal suatu konsep/bidang ilmu
+- Setelah mulai mengenal ilmunya melalui video, perdalam dengan membaca langsung teori dasarnya atau dokumentasi resminya
+
 +++
 
 ### Jangan Pernah Berhenti Belajar
@@ -323,7 +337,7 @@ Saat kita berhenti belajar, bersiaplah untuk tergilas oleh kemajuan zaman
 
 ## Tips Meniti Karir
 
-Tips meniti karir sebagais seorang _programmer_
+Tips meniti karir sebagai seorang _programmer_
 
 +++
 
@@ -379,7 +393,11 @@ Tips meniti karir sebagais seorang _programmer_
 
 @ul
 
-- Karena
+- Ketika sudah ada indikasi "mentok"
+- Ketika kesehatan perusahaan sudah mulai "kurang baik"
+  - Budaya kerja di perusahaan cenderung destruktif
+  - _Cash flow_ perusahaan memburuk
+  - Pelanggan banyak yang kabur
 
 @ulend
 
@@ -389,10 +407,23 @@ Tips meniti karir sebagais seorang _programmer_
 
 @ul
 
-- Karena
--
+- Biasanya kita yang dicari-cari oleh perusahaan
+- Kalau belum dicari-cari, pandai-pandailah dalam melakukan "pencitraan"
+  - Coba ikuti [Jurus Jitu Pencitraan buat Para Programmer](https://medium.com/mazipan-mind/jurus-jitu-pencitraan-buat-para-programmer-209acefcbc91) oleh Mas [Irfan Maulana](https://medium.com/@mazipanneh)
+- Dalam proses seleksi kerja, jujurlah apa adanya
+  - Selama kita jujur, _insya Allah_ pasti dapat yang terbaik, baik hasilnya diterima maupun tidak
 
 @ulend
+
+Note:
+
+- Kalau gajinya terlalu rendah, jelas kita tidak akan nyaman bekerja di sana
+- Kalau gajinya terlalu tinggi, bisa jadi kinerja kita nantinya di bawah ekspektasi dan akhirnya malah kita yang terancam di-PHK atau tidak lulus _probation_
+- Saya pernah ditolak dalam suatu proses seleksi kerja
+  - Saya terima apa adanya
+  - Saya tanyakan apa kekurangan saya
+  - Saya perbaiki kekurangan itu untuk bisa lolos pada kesempatan lainnya
+  - Alhamdulillaah akhirnya saya diterima di Bukalapak dan ini menjadi hal yang terbaik bagi saya
 
 ---
 
