@@ -101,3 +101,11 @@ Sejak lahir s.d. SMA di Jember
 +++
 
 ### Bagaimana caranya pindah perusahaan?
+
+---
+
+### Pranala
+
+- [Slide Presentasi](https://gitpitch.com/zainfathoni/cekcok/master)
+- [LinkedIn](https://www.linkedin.com/in/zainfathoni/)
+- [Telegram](https://t.me/zainfathoni)
