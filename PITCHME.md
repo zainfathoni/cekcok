@@ -10,13 +10,36 @@ Senior Software Engineer @ [Ninja Van](https://ninjavan.co)
 
 ## Kerangka Pembahasan
 
+- Perkenalan
 - Kriteria _programmer_ idaman
 - Hak istimewa _programmer_
 - Investasi karir seorang _programmer_
 - Cara belajar _programmer_
 - Cara _programmer_ meniti karir
+
   - Alternatif jalur karir
   - Tips pindah perusahaan
+
+---
+
+## Perkenalan
+
++++
+
+### Zain Fathoni
+
+#### Asal Jember, Jawa Timur
+
+- SD s.d. SMA di Jember
+
++++
+
+### Institut Teknologi Bandung
+
+#### S1 Teknik Informatika
+
+- Masuk 2008
+- Lulus 2014
 
 ---
 
