@@ -317,7 +317,7 @@ Note:
 
 #### Contoh Kupas Tuntas
 
-@ul
+@ol
 
 - React Native
 - React
@@ -330,7 +330,7 @@ Note:
 - Biner
 - Sistem Digital
 
-@ulend
+@olend
 
 +++
 
