@@ -266,7 +266,7 @@ Cara belajar yang perlu diterapkan oleh _programmer_ supaya dapat mengikuti perk
 - Pelajari semuanya dulu, "siapa tahu" (_just in case_) suatu saat nanti diperlukan
 - Menumpuk banyak materi pelajaran di awal, menumpuk banyak praktikum di akhir
 - Mirip dengan sistem sekolah di Indonesia pada umumnya
-  - Belajar 12 tahun (atau lebih) untuk menghadapi dunia kerja
+- Baca juga bagian **Cara belajar yang baik** di [tulisan terbaru saya](https://medium.com/pejuang-kode/menyikapi-sistem-zonasi-sekolah-negeri-dengan-bijak-306ae02f05a4)
 
 @ulend
 
@@ -276,7 +276,7 @@ Note:
   - Capek sendiri
   - Gampang lupa
   - Ilmunya kurang bermanfaat
-- Baca juga bagian **Cara belajar yang baik** di [tulisan saya ini](https://medium.com/pejuang-kode/menyikapi-sistem-zonasi-sekolah-negeri-dengan-bijak-306ae02f05a4)
+- Belajar 12 tahun (atau lebih) untuk menghadapi dunia kerja
 
 +++
 
@@ -286,7 +286,7 @@ Note:
 
 - Pelajari hanya yang sedang/akan dibutuhkan dalam waktu dekat
 - Belajar dan praktikum berjalan beriringan
-- _Fun Fact_: 80% ilmu yang saya gunakan di dunia kerja saat ini saya peroleh dari proses _Just-In-Time Learning_ selama 4 tahun terakhir di dunia kerja
+- _Fun Fact_ → 80% ilmu saya saat ini didapat dari proses _Just-In-Time Learning_
 
 @ulend
 
@@ -296,6 +296,7 @@ Note:
   - Stres saya berkurang
   - Yang dipelajari sangat tertanam, sehingga memperkuat ingatan jangka panjangnya
   - Ilmunya jelas bermanfaat, karena langsung diterapkan saat itu juga
+- _Fun Fact_ → 80% ilmu yang saya gunakan di dunia kerja saat ini saya peroleh dari proses _Just-In-Time Learning_ selama 4 tahun terakhir di dunia kerja
 
 +++
 
@@ -305,13 +306,27 @@ Note:
 
 - Inilah cara belajar **Elon Musk**, baca artikel [The Cook and The Chef](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 - Apabila tidak mengerti cara kerja suatu teknologi, terus gali lebih dalam hingga konsep yang paling dasar
-- Contoh:
-  - React Native → React → ES6 → JavaScript
-  - Web → HTTP → Jaringan Komputer → OS → Biner → Sistem Digital
 
 @ulend
 
+Note:
+
+- Apabila tidak mengerti cara kerja suatu teknologi, terus gali lebih dalam hingga konsep yang paling dasar
+
 +++
+
+#### Contoh Kupas Tuntas
+
+- React Native
+- React
+- ES6
+- JavaScript
+- Web
+- HTTP
+- Jaringan Komputer
+- OS
+- Biner
+- Sistem Digital
 
 ### Jangan "Alergi" dengan Membaca
 
