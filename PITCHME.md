@@ -113,12 +113,13 @@ Note:
 
 +++
 
-#### Kesempatan bekerja _remote_
+#### Fleksibilitas Waktu & Lokasi Kerja
 
 @ul
 
-- Bekerja dari rumah
-  - Bisa bekerja sesuai dengan jam produktif kita sendiri
+- Jam kerja biasanya relatif fleksibel
+- Bisa kerja dari rumah
+  - Bisa kerja sesuai dengan jam produktif kita sendiri
   - Waktu bersama keluarga lebih banyak
 - Biaya hidup lokal, gaji internasional
 
