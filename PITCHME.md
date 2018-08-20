@@ -317,6 +317,8 @@ Note:
 
 #### Contoh Kupas Tuntas
 
+@ul
+
 - React Native
 - React
 - ES6
@@ -327,6 +329,10 @@ Note:
 - OS
 - Biner
 - Sistem Digital
+
+@ulend
+
++++
 
 ### Jangan "Alergi" dengan Membaca
 
