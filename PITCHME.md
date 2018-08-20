@@ -420,6 +420,7 @@ Tips meniti karir sebagai seorang _programmer_
   - Budaya kerja di perusahaan cenderung destruktif
   - _Cash flow_ perusahaan memburuk
   - Pelanggan banyak yang kabur
+- Ada kesempatan yang lebih baik di luar sana
 
 @ulend
 
